@@ -1,6 +1,6 @@
 # プロバイダー設定
 provider "aws" {
-  region = "ap-northeast-1" # 適切なリージョンを指定してください
+  region = "ap-northeast-1"
 }
 
 terraform {
