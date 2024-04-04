@@ -34,18 +34,19 @@
 ## セットアップ手順
 
 ### クローン
+
 ```bash
 git clone https://github.com/Keisuke-Hiraki/secure-private-access-with-single-public-nlb.git
 ```
 
 ### 初期化
+
 ```bash
 terraform init
 ```
 
 ### 作成
 
--varオプションに引数を渡す場合のコマンドは下記です。
 ```bash
 terraform apply
 ```
