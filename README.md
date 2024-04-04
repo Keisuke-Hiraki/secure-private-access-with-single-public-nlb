@@ -29,11 +29,7 @@
 
 ## 構成図
 
-<img src="/image/SysdigSecure-Fargate_re.png">
-
-## 通信要件
-
-<img src="/image/SysdigSecure-Fargate_Network.png">
+<img src="/image/khiraki_privatelink_public_privatelink_demo.png">
 
 ## セットアップ手順
 
