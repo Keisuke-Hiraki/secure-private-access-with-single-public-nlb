@@ -35,7 +35,7 @@
 
 ### クローン
 ```bash
-git clone https://github.com/Keisuke-Hiraki/ECS-Fargate-Sysdig-Secure-Mining-Detection.git
+git clone https://github.com/Keisuke-Hiraki/secure-private-access-with-single-public-nlb.git
 ```
 
 ### 初期化
