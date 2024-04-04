@@ -1,6 +1,6 @@
 # secure-private-access-with-single-public-nlb
 
-<a href="https://dev.classmethod.jp/articles/detecting-mining-sysdig-secure-ecs-serverless-agents/" rel="noopener" target="_blank">外部公開している NLB 1 台だけでプライベートなアクセス経路も確保する | DevelopersIO</a> ブログのリポジトリです。
+<a href="https://dev.classmethod.jp/articles/securing-private-access-route-with-single-public-nlb/" rel="noopener" target="_blank">外部公開している NLB 1 台だけでプライベートなアクセス経路も確保する | DevelopersIO</a> ブログのリポジトリです。
 
 ## 前提条件
 - AWSアカウントを持っていること
